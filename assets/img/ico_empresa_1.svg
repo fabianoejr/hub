@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="300"
+   height="150"
+   viewBox="0 0 79.374998 39.687501"
+   version="1.1"
+   id="svg10887"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="ico_cards-7.svg">
+  <defs
+     id="defs10881" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="133.91055"
+     inkscape:cy="49.804036"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g12024"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1600"
+     inkscape:window-height="837"
+     inkscape:window-x="1358"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata10884">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="LOGO 2"
+     style="display:inline">
+    <g
+       id="g12024"
+       transform="translate(-54.517612,-55.330164)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:17.8532px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:'Raleway, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.812965;"
+         x="93.855476"
+         y="81.220291"
+         id="text10535"
+         inkscape:export-xdpi="150"
+         inkscape:export-ydpi="150"><tspan
+           sodipodi:role="line"
+           id="tspan10533"
+           x="93.855476"
+           y="81.220291"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:17.8532px;font-family:Raleway;-inkscape-font-specification:'Raleway, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.812965;">UNISATC</tspan></text>
+    </g>
+  </g>
+</svg>

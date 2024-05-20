@@ -1,0 +1,732 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="800"
+   height="500"
+   viewBox="0 0 211.66667 132.29166"
+   version="1.1"
+   id="svg9001"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="bg_login_top.svg">
+  <defs
+     id="defs8995">
+    <clipPath
+       id="clipPath86-4-4-1-5-2-3-88-2">
+      <path
+         d="M 0,272.487 H 510.417 V 0 H 0 Z"
+         id="path1231-2-6-7-2" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="598.15902"
+     inkscape:cy="211.27606"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer3"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1600"
+     inkscape:window-height="837"
+     inkscape:window-x="1358"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     units="px" />
+  <metadata
+     id="metadata8998">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(40.821431,-73.127768)"
+     style="display:none">
+    <g
+       id="g8973"
+       transform="matrix(1,0,0,1.1681699,-40.821429,316.00251)">
+      <rect
+         style="display:inline;opacity:0.999;fill:#96be47;fill-opacity:1;stroke:none;stroke-width:0.0318849;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect18395-4"
+         width="211.66667"
+         height="28.944981"
+         x="-2.1964111e-06"
+         y="-121.14822"
+         ry="0"
+         inkscape:export-xdpi="95.983894"
+         inkscape:export-ydpi="95.983894" />
+      <rect
+         style="display:inline;opacity:0.999;fill:#386641;fill-opacity:0.15;stroke:none;stroke-width:0.0109401;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect20343"
+         width="24.887016"
+         height="28.981619"
+         x="186.77963"
+         y="-121.05663"
+         ry="0"
+         inkscape:export-xdpi="95.983894"
+         inkscape:export-ydpi="95.983894" />
+      <rect
+         style="display:inline;opacity:0.999;fill:#e8fecf;fill-opacity:1;stroke:none;stroke-width:0.0240869;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect20363"
+         width="116.9782"
+         height="29.889229"
+         x="44.417755"
+         y="-122.09247"
+         ry="0"
+         inkscape:export-xdpi="95.983894"
+         inkscape:export-ydpi="95.983894" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Layer 2"
+     transform="translate(0,102.27421)">
+    <rect
+       style="display:inline;opacity:0.999;fill:#9bcd37;fill-opacity:1;stroke:none;stroke-width:0.0686854;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect18395-4-0"
+       width="211.66667"
+       height="134.31741"
+       x="-0.20455869"
+       y="-102.30819"
+       ry="0"
+       inkscape:export-xdpi="95.983894"
+       inkscape:export-ydpi="95.983894" />
+    <rect
+       style="display:inline;opacity:0.999;fill:#04262f;fill-opacity:1;stroke:none;stroke-width:0.0646674;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect18395-4-5"
+       width="211.66667"
+       height="119.0625"
+       x="-222.5728"
+       y="154.02388"
+       ry="0"
+       inkscape:export-xdpi="95.983894"
+       inkscape:export-ydpi="95.983894" />
+    <rect
+       style="display:inline;opacity:0.999;fill:#04ab93;fill-opacity:0.35;stroke:none;stroke-width:0.0200519;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect21684"
+       width="20.351301"
+       height="119.06251"
+       x="-31.257406"
+       y="154.02388"
+       ry="0"
+       inkscape:export-xdpi="95.983894"
+       inkscape:export-ydpi="95.983894" />
+    <g
+       id="g20986"
+       transform="translate(-633.34274,468.31429)"
+       inkscape:export-xdpi="95.983894"
+       inkscape:export-ydpi="95.983894">
+      <g
+         id="g20980">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="450.75012"
+           y="-289.58981"
+           id="text20974"><tspan
+             sodipodi:role="line"
+             x="450.75012"
+             y="-289.58981"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+             id="tspan20970">Novo Ensino Médio: entenda as novidades</tspan><tspan
+             sodipodi:role="line"
+             x="450.75012"
+             y="-285.18008"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+             id="tspan20972">no Colégio Satc</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#5dd2ce;fill-opacity:0.5;stroke:none;stroke-width:0.264583"
+           x="450.88766"
+           y="-294.88138"
+           id="text20978"><tspan
+             sodipodi:role="line"
+             x="450.88766"
+             y="-294.88138"
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.82222px;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#5dd2ce;fill-opacity:0.5;stroke-width:0.264583"
+             id="tspan20976">25/11/2021</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#9bcd37;fill-opacity:1;stroke:none;stroke-width:0.0948387"
+         x="531.9469"
+         y="-289.08194"
+         id="text20984"><tspan
+           sodipodi:role="line"
+           id="tspan20982"
+           x="531.9469"
+           y="-289.08194"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.52778px;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#9bcd37;fill-opacity:1;stroke-width:0.0948387">Leia mais</tspan></text>
+    </g>
+    <g
+       id="g20968"
+       transform="translate(-633.34274,514.35179)"
+       inkscape:export-xdpi="95.983894"
+       inkscape:export-ydpi="95.983894">
+      <g
+         id="g20962">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="450.75012"
+           y="-289.58981"
+           id="text20956"><tspan
+             sodipodi:role="line"
+             x="450.75012"
+             y="-289.58981"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+             id="tspan20952">Novo Ensino Médio: entenda as novidades</tspan><tspan
+             sodipodi:role="line"
+             x="450.75012"
+             y="-285.18008"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+             id="tspan20954">no Colégio Satc</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#5dd2ce;fill-opacity:0.5;stroke:none;stroke-width:0.264583"
+           x="450.88766"
+           y="-294.88138"
+           id="text20960"><tspan
+             sodipodi:role="line"
+             x="450.88766"
+             y="-294.88138"
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.82222px;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#5dd2ce;fill-opacity:0.5;stroke-width:0.264583"
+             id="tspan20958">25/11/2021</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#9bcd37;fill-opacity:1;stroke:none;stroke-width:0.0948387"
+         x="531.9469"
+         y="-289.08194"
+         id="text20966"><tspan
+           sodipodi:role="line"
+           id="tspan20964"
+           x="531.9469"
+           y="-289.08194"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.52778px;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#9bcd37;fill-opacity:1;stroke-width:0.0948387">Leia mais</tspan></text>
+    </g>
+    <g
+       id="g21004"
+       transform="translate(-633.34274,491.33304)"
+       inkscape:export-xdpi="95.983894"
+       inkscape:export-ydpi="95.983894">
+      <g
+         id="g20998">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="450.75012"
+           y="-289.58981"
+           id="text20992"><tspan
+             sodipodi:role="line"
+             x="450.75012"
+             y="-289.58981"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+             id="tspan20988">Novo Ensino Médio: entenda as novidades</tspan><tspan
+             sodipodi:role="line"
+             x="450.75012"
+             y="-285.18008"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+             id="tspan20990">no Colégio Satc</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#5dd2ce;fill-opacity:0.5;stroke:none;stroke-width:0.264583"
+           x="450.88766"
+           y="-294.88138"
+           id="text20996"><tspan
+             sodipodi:role="line"
+             x="450.88766"
+             y="-294.88138"
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.82222px;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#5dd2ce;fill-opacity:0.5;stroke-width:0.264583"
+             id="tspan20994">25/11/2021</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#9bcd37;fill-opacity:1;stroke:none;stroke-width:0.0948387"
+         x="531.9469"
+         y="-289.08194"
+         id="text21002"><tspan
+           sodipodi:role="line"
+           id="tspan21000"
+           x="531.9469"
+           y="-289.08194"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.52778px;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#9bcd37;fill-opacity:1;stroke-width:0.0948387">Leia mais</tspan></text>
+    </g>
+    <g
+       id="g20482"
+       transform="translate(-633.34274,537.37055)"
+       inkscape:export-xdpi="95.983894"
+       inkscape:export-ydpi="95.983894">
+      <g
+         id="g20489">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="450.75012"
+           y="-289.58981"
+           id="text20471"><tspan
+             sodipodi:role="line"
+             x="450.75012"
+             y="-289.58981"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+             id="tspan20467">Novo Ensino Médio: entenda as novidades</tspan><tspan
+             sodipodi:role="line"
+             x="450.75012"
+             y="-285.18008"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+             id="tspan20469">no Colégio Satc</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#5dd2ce;fill-opacity:0.5;stroke:none;stroke-width:0.264583"
+           x="450.88766"
+           y="-294.88138"
+           id="text18120"><tspan
+             sodipodi:role="line"
+             x="450.88766"
+             y="-294.88138"
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.82222px;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#5dd2ce;fill-opacity:0.5;stroke-width:0.264583"
+             id="tspan20451">25/11/2021</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#9bcd37;fill-opacity:1;stroke:none;stroke-width:0.0948387"
+         x="531.9469"
+         y="-289.08194"
+         id="text18136-5"><tspan
+           sodipodi:role="line"
+           id="tspan18134-6"
+           x="531.9469"
+           y="-289.08194"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.52778px;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#9bcd37;fill-opacity:1;stroke-width:0.0948387">Leia mais</tspan></text>
+    </g>
+    <path
+       id="path18154-3"
+       style="opacity:0.999;fill:#f2f2f2;fill-opacity:0.15;stroke:none;stroke-width:0.0601291;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m -181.94615,189.14044 v 0.26458 h 95.158543 v -0.26458 z"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-xdpi="95.983894"
+       inkscape:export-ydpi="95.983894" />
+    <path
+       id="path18154-3-8"
+       style="opacity:0.999;fill:#f2f2f2;fill-opacity:0.15;stroke:none;stroke-width:0.0601291;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m -181.94616,211.89463 v 0.26458 h 95.158543 v -0.26458 z"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-xdpi="95.983894"
+       inkscape:export-ydpi="95.983894" />
+    <path
+       id="path18154-3-4"
+       style="opacity:0.999;fill:#f2f2f2;fill-opacity:0.15;stroke:none;stroke-width:0.0601291;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m -181.94615,235.17796 v 0.26458 h 95.158543 v -0.26458 z"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-xdpi="95.983894"
+       inkscape:export-ydpi="95.983894" />
+    <rect
+       style="display:inline;opacity:0.999;fill:#e8fecf;fill-opacity:1;stroke:none;stroke-width:0.0690519;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect20363-2"
+       width="213.05563"
+       height="134.8698"
+       x="-0.70260555"
+       y="-102.39776"
+       ry="0"
+       inkscape:export-xdpi="95.983894"
+       inkscape:export-ydpi="95.983894" />
+    <g
+       id="g188"
+       transform="matrix(1,0,0,1.1420969,-1.0333333e-7,-103.41494)">
+      <rect
+         style="display:inline;opacity:0.999;fill:#8cbd38;fill-opacity:0.25;stroke:none;stroke-width:0.0183404;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect134"
+         width="16.950001"
+         height="119.59167"
+         x="16.744955"
+         y="-1.0166512"
+         ry="0"
+         inkscape:export-xdpi="95.983894"
+         inkscape:export-ydpi="95.983894" />
+      <rect
+         style="display:inline;opacity:0.999;fill:#8cbd38;fill-opacity:0.45;stroke:none;stroke-width:0.0183401;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect9684"
+         width="16.949516"
+         height="119.59167"
+         x="-0.20455858"
+         y="-1.0166512"
+         ry="0"
+         inkscape:export-xdpi="95.983894"
+         inkscape:export-ydpi="95.983894" />
+    </g>
+    <rect
+       style="fill:#8cbd38;fill-opacity:1;stroke:none;stroke-width:0.255351;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect200"
+       width="33.351669"
+       height="134.09668"
+       x="-0.20455869"
+       y="54.39468"
+       inkscape:export-xdpi="95.983894"
+       inkscape:export-ydpi="95.983894" />
+    <rect
+       style="display:inline;opacity:0.999;fill:#09657b;fill-opacity:0.150407;stroke:none;stroke-width:0.0222234;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect20343-9"
+       width="24.887016"
+       height="119.59167"
+       x="-60.680153"
+       y="154.55301"
+       ry="0"
+       inkscape:export-xdpi="95.983894"
+       inkscape:export-ydpi="95.983894" />
+    <g
+       transform="matrix(0.53454624,0,0,0.53454624,273.88144,-336.59787)"
+       id="g20803-1"
+       style="display:inline"
+       inkscape:export-xdpi="95.983894"
+       inkscape:export-ydpi="95.983894">
+      <g
+         transform="matrix(0.26458,0,0,0.26458,-68.712,238.18)"
+         id="g20675-0">
+        <path
+           d="M 53.058,109.98 2,69.72 V 147.7 Z M 2,147.7 v 61.457 L 62.422,269.581 53.058,190.501 2,147.701 Z m 120.84,112.58 -60.417,9.296 60.422,60.422 v -69.722 l -0.004,0.004 z"
+           fill="#1e5c2d"
+           id="path20663-7" />
+        <path
+           d="M 53.058,109.98"
+           fill="none"
+           stroke="#231f20"
+           stroke-miterlimit="22.926"
+           stroke-width="0.31202"
+           id="path20665-60" />
+        <path
+           d="M 62.422,34.86 2,69.717 l 51.058,40.26 9.364,-75.12 z m 120.84,0 60.423,34.858 -51.055,40.26 -9.368,-75.12 z M 122.84,0 62.418,34.86 122.836,69.718 h 0.009 l 60.417,-34.86 z"
+           fill="#2e8e4b"
+           id="path20667-86" />
+        <path
+           d="m 192.64,109.98 51.055,-40.26 v 77.98 z m 51.055,37.72 v 61.457 l -60.423,60.424 9.37,-79.08 51.053,-42.8 z m -120.84,112.58 60.417,9.296 -60.422,60.422 v -69.722 l 0.004,0.004 z"
+           fill="#9cd74b"
+           id="path20669-07" />
+        <path
+           d="M 192.64,109.98"
+           fill="none"
+           stroke="#231f20"
+           stroke-miterlimit="22.926"
+           stroke-width="0.31202"
+           id="path20671-39" />
+        <path
+           d="M 53.058,109.98 2,147.7 53.058,190.5 Z m 0,0 69.783,-40.26 -60.417,-34.857 -9.365,75.117 z m 0,80.521 9.365,79.08 60.418,-9.296 -69.782,-69.784 z m 139.58,-80.521 51.055,37.72 -51.055,42.8 z m 0,0 -69.786,-40.26 60.417,-34.858 9.368,75.117 z m 0,80.521 -9.368,79.08 -60.418,-9.296 69.785,-69.784 z"
+           fill="#59bb42"
+           id="path20673-7" />
+      </g>
+      <g
+         transform="matrix(0.56892,0,0,-0.56892,-113.5,359.28)"
+         clip-path="url(#clipPath86-4-4-1-5-2-3-88-2)"
+         id="g20801-5">
+        <g
+           transform="translate(248.35,165.33)"
+           id="g20679-7">
+          <path
+             d="m 0,0 c -2.334,2.989 -7.011,4.395 -10.561,4.395 -4.114,0 -9.815,-1.873 -9.815,-6.825 0,-12.059 30.468,-4.299 30.468,-27.479 0,-14.764 -11.867,-21.775 -25.509,-21.776 -8.509,0 -15.985,2.522 -22.25,8.317 l 10.378,11.402 c 2.987,-3.926 7.848,-6.26 12.708,-6.26 4.766,0 10.092,2.24 10.092,6.913 0,12.151 -31.027,5.609 -31.027,27.669 0,14.111 12.243,21.491 25.236,21.491 7.476,0 14.671,-1.958 20.278,-6.912 z"
+             fill="#0b2d20"
+             id="path20677-0" />
+        </g>
+        <g
+           transform="translate(296.67,162.24)"
+           id="g20683-8">
+          <path
+             d="M 0,0 -8.04,-20.559 H 8.133 Z M -5.607,19.254 H 6.452 L 35.239,-46.918 H 18.784 L 13.083,-32.9 h -25.701 l -5.509,-14.018 h -16.074 z"
+             fill="#0b2d20"
+             id="path20681-9" />
+        </g>
+        <g
+           transform="translate(342.76,168.6)"
+           id="g20687-4">
+          <path
+             d="M 0,0 H -18.883 V 12.896 H 33.455 V 0 H 14.581 V -53.276 H 0 Z"
+             fill="#0b2d20"
+             id="path20685-10" />
+        </g>
+        <g
+           transform="translate(426.87,164.3)"
+           id="g20691-8">
+          <path
+             d="m 0,0 c -2.898,3.459 -7.101,5.424 -12.524,5.424 -11.031,0 -19.16,-8.972 -19.16,-21.315 0,-12.337 8.129,-21.306 18.695,-21.306 5.888,0 10.65,2.616 13.642,7.103 l 12.153,-9.068 c -5.518,-7.85 -14.863,-11.494 -23.926,-11.494 -20.653,0 -35.704,13.553 -35.704,34.765 0,21.219 15.051,34.767 35.704,34.767 7.382,0 16.727,-2.522 22.334,-9.719 z"
+             fill="#0b2d20"
+             id="path20689-50" />
+        </g>
+        <g
+           transform="translate(212.87,100)"
+           id="g20695-8">
+          <path
+             d="M 0,0 H 5.534 V -1.656 H 1.795 V -3.175 H 5.327 V -4.832 H 1.795 V -6.489 H 5.741 V -8.146 H 0 Z"
+             fill="#18592c"
+             id="path20693-9" />
+        </g>
+        <g
+           transform="translate(221.85,93.516)"
+           id="g20699-35">
+          <path
+             d="m 0,0 h 0.932 c 1.669,0 2.922,0.633 2.922,2.485 0,1.6 -1.277,2.348 -2.795,2.348 H 0 Z m -1.795,6.489 h 2.692 c 2.624,0 4.821,-1.116 4.821,-4.095 0,-2.635 -2.152,-4.05 -4.579,-4.05 h -2.934 z"
+             fill="#18592c"
+             id="path20697-9" />
+        </g>
+        <g
+           transform="translate(235.66,95)"
+           id="g20703-3">
+          <path
+             d="m 0,0 c 0,-1.921 -1.174,-3.348 -3.429,-3.348 -2.266,0 -3.44,1.427 -3.44,3.348 v 5.005 h 1.795 V 0.069 c 0,-1.001 0.69,-1.76 1.645,-1.76 0.944,0 1.634,0.759 1.634,1.76 V 5.005 H 0 Z"
+             fill="#18592c"
+             id="path20701-2" />
+        </g>
+        <g
+           transform="translate(242.65,97.888)"
+           id="g20707-0">
+          <path
+             d="m 0,0 c -0.356,0.426 -0.874,0.668 -1.542,0.668 -1.357,0 -2.358,-1.105 -2.358,-2.623 0,-1.52 1.001,-2.624 2.3,-2.624 0.726,0 1.312,0.322 1.68,0.875 L 1.576,-4.82 c -0.679,-0.967 -1.829,-1.415 -2.945,-1.415 -2.543,0 -4.395,1.668 -4.395,4.28 0,2.611 1.852,4.279 4.395,4.279 0.909,0 2.059,-0.31 2.75,-1.196 z"
+             fill="#18592c"
+             id="path20705-6" />
+        </g>
+        <g
+           transform="translate(248.58,97.635)"
+           id="g20711-9">
+          <path
+             d="m 0,0 -0.989,-2.531 h 1.99 z M -0.69,2.37 H 0.794 L 4.338,-5.775 H 2.313 L 1.611,-4.05 h -3.164 l -0.678,-1.725 h -1.98 z"
+             fill="#18592c"
+             id="path20709-16" />
+        </g>
+        <g
+           transform="translate(259.06,97.888)"
+           id="g20715-8">
+          <path
+             d="m 0,0 c -0.356,0.426 -0.874,0.668 -1.542,0.668 -1.357,0 -2.358,-1.105 -2.358,-2.623 0,-1.52 1.001,-2.624 2.3,-2.624 0.726,0 1.312,0.322 1.68,0.875 L 1.576,-4.82 c -0.679,-0.967 -1.829,-1.415 -2.945,-1.415 -0.08,0 -0.15,0 -0.219,0.011 l -0.333,-0.495 c 0.679,0 1.449,-0.103 1.449,-0.955 0,-0.84 -1.012,-1.116 -1.599,-1.116 -0.46,0 -1.035,0.15 -1.438,0.346 l 0.287,0.541 c 0.185,-0.07 0.495,-0.197 0.886,-0.197 0.357,0 0.76,0.07 0.76,0.369 0,0.276 -0.345,0.391 -0.575,0.391 -0.15,0 -0.277,-0.034 -0.414,-0.092 l -0.369,0.333 0.621,0.944 c -2.047,0.368 -3.451,1.922 -3.451,4.2 0,2.611 1.852,4.279 4.395,4.279 0.909,0 2.059,-0.31 2.75,-1.196 z"
+             fill="#18592c"
+             id="path20713-1" />
+        </g>
+        <g
+           transform="translate(264.99,97.635)"
+           id="g20719-31">
+          <path
+             d="m 0,0 -0.989,-2.531 h 1.99 z m -2.186,3.026 c 0.126,0.771 0.598,1.587 1.461,1.587 0.38,0 0.667,-0.103 1.001,-0.241 0.207,-0.08 0.414,-0.173 0.645,-0.173 0.265,0 0.402,0.185 0.506,0.414 H 2.324 C 2.175,3.739 1.795,3.026 0.828,3.026 c -0.333,0 -0.633,0.126 -0.897,0.242 -0.264,0.127 -0.494,0.241 -0.725,0.241 -0.265,0 -0.414,-0.265 -0.483,-0.483 z M -0.69,2.37 H 0.794 L 4.338,-5.775 H 2.313 L 1.611,-4.05 h -3.164 l -0.678,-1.725 h -1.98 z"
+             fill="#18592c"
+             id="path20717-9" />
+        </g>
+        <g
+           transform="translate(274.11,93.308)"
+           id="g20723-8">
+          <path
+             d="M 0,0 C 1.53,0 2.531,1.104 2.531,2.624 2.531,4.143 1.53,5.247 0,5.247 -1.53,5.247 -2.531,4.143 -2.531,2.624 -2.531,1.104 -1.53,0 0,0 m 0,6.903 c 2.543,0 4.395,-1.668 4.395,-4.279 0,-2.612 -1.852,-4.28 -4.395,-4.28 -2.543,0 -4.395,1.668 -4.395,4.28 0,2.611 1.852,4.279 4.395,4.279"
+             fill="#18592c"
+             id="path20721-9" />
+        </g>
+        <g
+           transform="translate(279.95,93.724)"
+           id="g20727-4">
+          <path
+             d="M 0,0 H 1.657 L 0.621,-3.245 h -1.473 z"
+             fill="#18592c"
+             id="path20725-5" />
+        </g>
+        <g
+           transform="translate(288.12,98.417)"
+           id="g20731-0">
+          <path
+             d="M 0,0 H -2.324 V 1.588 H 4.119 V 0 H 1.795 V -6.558 H 0 Z"
+             fill="#18592c"
+             id="path20729-9" />
+        </g>
+        <g
+           transform="translate(293.22,100)"
+           id="g20735-4">
+          <path
+             d="M 0,0 H 5.534 V -1.656 H 1.795 V -3.175 H 5.327 V -4.832 H 1.795 V -6.489 H 5.741 V -8.146 H 0 Z"
+             fill="#18592c"
+             id="path20733-3" />
+        </g>
+        <g
+           transform="translate(305.73,97.888)"
+           id="g20739-3">
+          <path
+             d="m 0,0 c -0.356,0.426 -0.874,0.668 -1.542,0.668 -1.357,0 -2.358,-1.105 -2.358,-2.623 0,-1.52 1.001,-2.624 2.3,-2.624 0.726,0 1.312,0.322 1.68,0.875 L 1.576,-4.82 c -0.679,-0.967 -1.829,-1.415 -2.945,-1.415 -2.543,0 -4.395,1.668 -4.395,4.28 0,2.611 1.852,4.279 4.395,4.279 0.909,0 2.059,-0.31 2.75,-1.196 z"
+             fill="#18592c"
+             id="path20737-1" />
+        </g>
+        <g
+           transform="translate(308.29,100)"
+           id="g20743-51">
+          <path
+             d="M 0,0 H 2.439 L 5.902,-5.66 H 5.926 V 0 H 7.72 V -8.146 H 5.373 L 1.818,-2.347 H 1.795 V -8.146 H 0 Z"
+             fill="#18592c"
+             id="path20741-77" />
+        </g>
+        <g
+           transform="translate(321.63,93.308)"
+           id="g20747-8">
+          <path
+             d="M 0,0 C 1.53,0 2.531,1.104 2.531,2.624 2.531,4.143 1.53,5.247 0,5.247 -1.53,5.247 -2.531,4.143 -2.531,2.624 -2.531,1.104 -1.53,0 0,0 m 0,6.903 c 2.543,0 4.395,-1.668 4.395,-4.279 0,-2.612 -1.852,-4.28 -4.395,-4.28 -2.543,0 -4.395,1.668 -4.395,4.28 0,2.611 1.852,4.279 4.395,4.279"
+             fill="#18592c"
+             id="path20745-2" />
+        </g>
+        <g
+           transform="translate(327.32,100)"
+           id="g20751-2">
+          <path
+             d="M 0,0 H 1.795 V -6.489 H 5.12 V -8.146 H 0 Z"
+             fill="#18592c"
+             id="path20749-2" />
+        </g>
+        <g
+           transform="translate(337.39,93.308)"
+           id="g20755-1">
+          <path
+             d="M 0,0 C 1.53,0 2.531,1.104 2.531,2.624 2.531,4.143 1.53,5.247 0,5.247 -1.53,5.247 -2.531,4.143 -2.531,2.624 -2.531,1.104 -1.53,0 0,0 m 0,6.903 c 2.543,0 4.395,-1.668 4.395,-4.279 0,-2.612 -1.852,-4.28 -4.395,-4.28 -2.543,0 -4.395,1.668 -4.395,4.28 0,2.611 1.852,4.279 4.395,4.279"
+             fill="#18592c"
+             id="path20753-1" />
+        </g>
+        <g
+           transform="translate(350.38,92.434)"
+           id="g20759-2">
+          <path
+             d="m 0,0 c -1.059,-0.552 -2.221,-0.782 -3.417,-0.782 -2.543,0 -4.395,1.668 -4.395,4.28 0,2.611 1.852,4.279 4.395,4.279 1.289,0 2.428,-0.287 3.244,-1.047 L -1.438,5.35 c -0.483,0.506 -1.07,0.771 -1.979,0.771 -1.53,0 -2.531,-1.104 -2.531,-2.623 0,-1.519 1.001,-2.624 2.531,-2.624 0.782,0 1.357,0.219 1.691,0.403 V 2.601 H -3.187 V 4.257 H 0 Z"
+             fill="#18592c"
+             id="path20757-5" />
+        </g>
+        <path
+           d="m 351.94,100 h 1.795 v -8.146 h -1.795 z"
+           fill="#18592c"
+           id="path20761-31" />
+        <g
+           transform="translate(358.74,97.635)"
+           id="g20765-0">
+          <path
+             d="m 0,0 -0.989,-2.531 h 1.99 z M -0.69,2.37 H 0.794 L 4.338,-5.775 H 2.313 L 1.611,-4.05 h -3.164 l -0.678,-1.725 h -1.98 z"
+             fill="#18592c"
+             id="path20763-7" />
+        </g>
+        <g
+           transform="translate(367.38,100)"
+           id="g20769-3">
+          <path
+             d="M 0,0 H 5.534 V -1.656 H 1.795 V -3.175 H 5.327 V -4.832 H 1.795 V -6.489 H 5.741 V -8.146 H 0 Z"
+             fill="#18592c"
+             id="path20767-5" />
+        </g>
+        <path
+           d="m 377.94,100 h 1.795 v -8.146 h -1.795 z"
+           fill="#18592c"
+           id="path20771-3" />
+        <g
+           transform="translate(381.37,100)"
+           id="g20775-06">
+          <path
+             d="M 0,0 H 2.439 L 5.902,-5.66 H 5.926 V 0 H 7.72 V -8.146 H 5.373 L 1.818,-2.347 H 1.795 V -8.146 H 0 Z"
+             fill="#18592c"
+             id="path20773-8" />
+        </g>
+        <g
+           transform="translate(394.71,93.308)"
+           id="g20779-5">
+          <path
+             d="M 0,0 C 1.53,0 2.531,1.104 2.531,2.624 2.531,4.143 1.53,5.247 0,5.247 -1.53,5.247 -2.531,4.143 -2.531,2.624 -2.531,1.104 -1.53,0 0,0 m 0,6.903 c 2.543,0 4.395,-1.668 4.395,-4.279 0,-2.612 -1.852,-4.28 -4.395,-4.28 -2.543,0 -4.395,1.668 -4.395,4.28 0,2.611 1.852,4.279 4.395,4.279"
+             fill="#18592c"
+             id="path20777-0" />
+        </g>
+        <g
+           transform="translate(399.53,100)"
+           id="g20783-2">
+          <path
+             d="M 0,0 H 2.048 L 4.061,-5.338 H 4.084 L 6.132,0 H 8.053 L 4.693,-8.146 H 3.256 Z"
+             fill="#18592c"
+             id="path20781-4" />
+        </g>
+        <g
+           transform="translate(411.1,97.635)"
+           id="g20787-6">
+          <path
+             d="m 0,0 -0.989,-2.531 h 1.99 z M -0.69,2.37 H 0.794 L 4.338,-5.775 H 2.313 L 1.611,-4.05 h -3.164 l -0.678,-1.725 h -1.98 z"
+             fill="#18592c"
+             id="path20785-03" />
+        </g>
+        <g
+           transform="translate(421.58,97.888)"
+           id="g20791-9">
+          <path
+             d="m 0,0 c -0.356,0.426 -0.874,0.668 -1.542,0.668 -1.357,0 -2.358,-1.105 -2.358,-2.623 0,-1.52 1.001,-2.624 2.3,-2.624 0.726,0 1.312,0.322 1.68,0.875 L 1.576,-4.82 c -0.679,-0.967 -1.829,-1.415 -2.945,-1.415 -0.08,0 -0.15,0 -0.219,0.011 l -0.333,-0.495 c 0.679,0 1.449,-0.103 1.449,-0.955 0,-0.84 -1.012,-1.116 -1.599,-1.116 -0.46,0 -1.035,0.15 -1.438,0.346 l 0.287,0.541 c 0.185,-0.07 0.495,-0.197 0.886,-0.197 0.357,0 0.76,0.07 0.76,0.369 0,0.276 -0.345,0.391 -0.575,0.391 -0.15,0 -0.277,-0.034 -0.414,-0.092 l -0.369,0.333 0.621,0.944 c -2.047,0.368 -3.451,1.922 -3.451,4.2 0,2.611 1.852,4.279 4.395,4.279 0.909,0 2.059,-0.31 2.75,-1.196 z"
+             fill="#18592c"
+             id="path20789-47" />
+        </g>
+        <g
+           transform="translate(427.51,97.635)"
+           id="g20795-5">
+          <path
+             d="m 0,0 -0.989,-2.531 h 1.99 z m -2.186,3.026 c 0.126,0.771 0.598,1.587 1.461,1.587 0.38,0 0.667,-0.103 1.001,-0.241 0.207,-0.08 0.414,-0.173 0.645,-0.173 0.265,0 0.402,0.185 0.506,0.414 H 2.324 C 2.175,3.739 1.795,3.026 0.828,3.026 c -0.333,0 -0.633,0.126 -0.897,0.242 -0.264,0.127 -0.494,0.241 -0.725,0.241 -0.265,0 -0.414,-0.265 -0.483,-0.483 z M -0.69,2.37 H 0.794 L 4.338,-5.775 H 2.313 L 1.611,-4.05 h -3.164 l -0.678,-1.725 h -1.98 z"
+             fill="#18592c"
+             id="path20793-8" />
+        </g>
+        <g
+           transform="translate(436.63,93.308)"
+           id="g20799-1">
+          <path
+             d="M 0,0 C 1.53,0 2.531,1.104 2.531,2.624 2.531,4.143 1.53,5.247 0,5.247 -1.53,5.247 -2.531,4.143 -2.531,2.624 -2.531,1.104 -1.53,0 0,0 m 0,6.903 c 2.543,0 4.395,-1.668 4.395,-4.279 0,-2.612 -1.852,-4.28 -4.395,-4.28 -2.543,0 -4.395,1.668 -4.395,4.28 0,2.611 1.852,4.279 4.395,4.279"
+             fill="#18592c"
+             id="path20797-7" />
+        </g>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:11.2889px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:'Raleway, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#04262f;fill-opacity:1;stroke:none;stroke-width:0.534418"
+       x="409.02823"
+       y="-3.4759583"
+       id="text18132-3"
+       inkscape:export-xdpi="95.983894"
+       inkscape:export-ydpi="95.983894"><tspan
+         sodipodi:role="line"
+         id="tspan18130-7"
+         x="409.02823"
+         y="-3.4759583"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:11.2889px;font-family:Raleway;-inkscape-font-specification:'Raleway, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#04262f;fill-opacity:1;stroke-width:0.534418">Acesso Unificado</tspan></text>
+    <g
+       id="g1027"
+       transform="matrix(1,0,0,1.0227966,0,-0.7297027)">
+      <rect
+         style="display:inline;opacity:0.999;fill:#74ae40;fill-opacity:1;stroke:none;stroke-width:0.0194208;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect134-7"
+         width="16.950001"
+         height="134.09668"
+         x="195.04128"
+         y="-102.08746"
+         ry="0"
+         inkscape:export-xdpi="95.983894"
+         inkscape:export-ydpi="95.983894" />
+      <rect
+         style="display:inline;opacity:0.999;fill:#8cbd38;fill-opacity:1;stroke:none;stroke-width:0.0194205;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect9684-6"
+         width="16.949516"
+         height="134.09668"
+         x="178.62093"
+         y="-102.08746"
+         ry="0"
+         inkscape:export-xdpi="95.983894"
+         inkscape:export-ydpi="95.983894" />
+    </g>
+  </g>
+</svg>

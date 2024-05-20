@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="300"
+   height="150"
+   viewBox="0 0 79.374998 39.687501"
+   version="1.1"
+   id="svg10887"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="ico_alumni.svg">
+  <defs
+     id="defs10881" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="63.573433"
+     inkscape:cy="25.265949"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g11817"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1600"
+     inkscape:window-height="837"
+     inkscape:window-x="1358"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata10884">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="LOGO 2"
+     style="display:inline">
+    <g
+       id="g11817"
+       style="fill:#ff00ff"
+       transform="matrix(1.0537537,0,0,1.0537537,12.759213,-324.06938)">
+      <g
+         aria-label="ALUMNI"
+         transform="scale(0.96003572,1.0416279)"
+         id="text10597-3-5"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:17.8891px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:'Raleway, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.814596">
+        <path
+           d="m -3.735752,306.64661 h 3.18425961 L 3.849226,319.34787 H 0.30718437 l -0.76923126,-2.48658 H -3.8430866 l -0.7513422,2.48658 h -3.5599307 z m 2.719143,7.88909 -1.1270132,-3.9356 -1.1806806,3.9356 z"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:17.8891px;font-family:Raleway;-inkscape-font-specification:'Raleway, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.814596"
+           id="path17199" />
+        <path
+           d="M 4.9046796,319.34787 V 306.64661 H 8.393054 v 9.66011 h 5.76029 v 3.04115 z"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:17.8891px;font-family:Raleway;-inkscape-font-specification:'Raleway, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.814596"
+           id="path17201" />
+        <path
+           d="m 20.718599,316.36039 q 0.60823,0 1.037568,-0.26834 0.429339,-0.26833 0.697675,-0.69767 0.268337,-0.44723 0.39356,-1.01968 0.125224,-0.57245 0.125224,-1.19857 v -6.52952 H 26.461 v 6.52952 q 0,1.32379 -0.339893,2.48659 -0.339892,1.1449 -1.055456,1.98569 -0.715564,0.84078 -1.806799,1.32379 -1.073346,0.483 -2.540253,0.483 -1.520573,0 -2.611808,-0.50089 -1.073346,-0.51878 -1.771021,-1.37746 -0.697675,-0.85868 -1.019678,-1.98569 -0.322004,-1.1449 -0.322004,-2.41503 v -6.52952 h 3.488374 v 6.52952 q 0,0.62612 0.125224,1.21646 0.125223,0.57245 0.39356,1.01968 0.268336,0.42934 0.679786,0.69767 0.429338,0.25045 1.037567,0.25045 z"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:17.8891px;font-family:Raleway;-inkscape-font-specification:'Raleway, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.814596"
+           id="path17203" />
+        <path
+           d="m 38.07099,319.34787 v -6.69052 l -2.128803,4.70483 h -1.860466 l -2.128803,-4.70483 v 6.69052 h -3.488374 v -12.70126 h 3.810378 l 2.737032,5.97496 2.754921,-5.97496 h 3.792489 v 12.70126 z"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:17.8891px;font-family:Raleway;-inkscape-font-specification:'Raleway, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.814596"
+           id="path17205" />
+        <path
+           d="m 47.230178,313.10457 v 6.2433 h -3.488374 v -12.70126 h 2.719143 l 5.098393,6.45796 v -6.45796 h 3.488374 v 12.70126 h -2.77281 z"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:17.8891px;font-family:Raleway;-inkscape-font-specification:'Raleway, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.814596"
+           id="path17207" />
+        <path
+           d="m 57.230176,319.34787 v -12.70126 h 3.488375 v 12.70126 z"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:17.8891px;font-family:Raleway;-inkscape-font-specification:'Raleway, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.814596"
+           id="path17209" />
+      </g>
+    </g>
+  </g>
+</svg>

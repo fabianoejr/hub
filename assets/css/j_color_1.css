@@ -1,0 +1,63 @@
+
+/* :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: */
+/*JotaDesigner está configurando a malandragem por aqui rapaiz !!!*/
+/* :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: */
+
+/*
+font-family: 'Roboto', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;*/
+
+body {background-color: #eef6f8;color: #4c4c4c;}
+.bg-dark {background-color: #eef6f8!important;}
+.card {color: inherit;}
+
+.logo_satc_topo {
+    background-image: url(../../images/logo_satc_1.svg);
+    background-size: 100% auto;
+    width: 105px;
+    height: 45px;
+    -webkit-transition: all ease-out .5s;
+    -moz-transition: all ease-out .5s;
+    -o-transition: all ease-out .5s;
+    transition: all ease-out .5s;
+}
+.header {
+    position: fixed;
+    z-index: 1000;
+    height: 65px;
+    width: 100%;
+    padding: 18px;
+    -webkit-transition: all ease-out .5s;
+    -moz-transition: all ease-out .5s;
+    -o-transition: all ease-out .5s;
+    transition: all ease-out .5s;
+    background: #fff;
+    box-shadow: 0 1px 3px rgba(5,0,72,.09)!important;
+}
+
+.headerSroll {
+    background: rgb(255 255 255 / 100%);
+    height: 45px;
+}
+
+.headerSroll .logo_satc_topo {
+    width: 85px;
+    height: 35px;
+}
+
+/* ::: BOTÕES ::: */
+.btn.btn-active-light-primary.btn-outline:not(.btn-outline-default) {border-color: #fff!important;}
+.btn-outline-primary {color: #fff;border-color: #fff;}
+.btn-check:active+.btn.btn-active-light-primary, .btn-check:checked+.btn.btn-active-light-primary, .btn.btn-active-light-primary.active, .btn.btn-active-light-primary.show, .btn.btn-active-light-primary:active:not(.btn-active), .btn.btn-active-light-primary:focus:not(.btn-active), .btn.btn-active-light-primary:hover:not(.btn-active), .show>.btn.btn-active-light-primary {
+    color: #ffffff;
+    background-color: #ffffff40;
+}
+
+/* ::: PERFIL ::: */
+.bg-Perfil {background-color: #052730;border-bottom: solid 7px #8cbd39;}
+.bg-Perfil h1 {color: #8cbd39;margin: 6px 0 0 0;}
+
+/* ::: ALUMNI ::: */
+.color-Alumni {color: #146b8c;}
+.bg-Alumni {background-color: #146b8c;}
+.bg-Alumni h1 {color: #fff;margin: 6px 0 0 0}

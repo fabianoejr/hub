@@ -1,0 +1,518 @@
+
+/* :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: */
+/*JotaDesigner está configurando a malandragem por aqui rapaiz !!!*/
+/* :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: */
+
+/*
+font-family: 'Roboto', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;*/
+
+/*::: jc-formBut :::*/
+.jc-formBut {}
+.jc-formBut form ul {}
+.jc-formBut form ul li {padding: 4px 10px;}
+.jc-formBut form ul li + li {border-top: solid 1px #abbec354;}
+.jc-formBut form ul li a {
+    color: #000;
+    -webkit-transition: 0.2s;
+    transition: 0.2s;
+}
+.jc-formBut form ul li a:hover {
+    color: #0075ff;
+    font-weight: 600;
+    margin: 0px 0px 0 5px;
+}
+
+.jc-formBut form input {
+    vertical-align: middle;
+    margin: 7px 5px 5px 0;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+    cursor: pointer;
+}
+
+.jc-formBut form label {
+    display: inline-block;
+    vertical-align: middle;
+    font-family: system-ui;
+    font-weight: 600;
+    cursor: pointer;
+    -webkit-transition: 0.1s;
+    transition: 0.1s;
+}
+.jc-formBut form label:hover {
+    color: #0075ff;
+}
+
+.jc-formBut form .titPerguntas {
+    margin: 15px 0px 5px 0;
+    padding: 20px 0 0px 0;
+    font-size: 1.2rem;
+    border-top: solid 1px #82979f47;
+}
+
+
+
+/*cadUser*/
+.cadUser {}
+.cadUser img.logo {
+    margin: 0 0 25px 0;
+    height: 80px;
+}
+.cadUser h2 {
+    font-size: 2rem;
+    margin: 0 0 10px 0;
+}
+.cadUser .lead {
+    font-size: 1.4rem;
+    font-weight: 300;
+}
+.cadUser .form-floating {margin-bottom: 0.75rem!important;}
+.cadUser .text-danger {
+    color: #f1416c!important;
+    margin: 6px 0px 15px 0;
+    display: block;
+    text-align: right;
+}
+.cadUser .row {margin: 0px;}
+
+.nameTema {
+    margin: 0 0 0 0;
+    font-size: 13px;
+}
+
+/*PERFIL*/
+
+.profile-picture {
+border: 1px solid rgb(182, 182, 182);
+border-radius: 50%;
+width: 250px;
+height: 250px;
+}
+
+table {color: inherit!important;}
+
+.tabDepend .tit {
+    border-left: solid 3px;
+    border-color: #75ae41;
+    height: 26px;
+    display: block;
+    vertical-align: middle;
+    margin: 10px 0px 10px 0px;
+}
+.tabDepend .tit h3 {
+    font-size: 15px;
+    font-weight: 700;
+    margin: -5px 0px 0px 11px;
+}
+.tabDepend td {
+    font-family: sans-serif;
+    padding: 10px 10px 10px 12px!important;
+}
+
+
+/*Bootstrap release - Jota*/
+.form-switch.form-check-solid .form-check-input {
+    height: 1.7rem;
+}
+.form-switch .form-check-input {
+    width: 2.9rem;
+}
+.carousel-caption {
+    bottom: 2.25rem;
+}
+
+.form-check.form-check-solid .form-check-input:checked {
+    background-color: rgb(7 143 136);
+}
+
+
+/*:::: carousel :::::*/
+
+.carousel-item h5 {
+    font-weight: 900;
+    font-size: 3rem;
+}
+.carousel-item p {
+    font-weight: 300;
+    font-size: 1.5rem;
+}
+
+.carousel-item {
+    min-height: 250px;
+    /*display: flex;*/
+}
+
+.carousel-item .banner_01 {
+    background-image: url(../../images/banner.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    background-position-x: center;
+    background-position-y: 0px;
+    display: block;
+    height: 250px;
+    background-size: cover;
+}
+.carousel-item .banner_02 {
+    background-image: url(../../images/banner2.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    background-position-x: center;
+    background-position-y: 0px;
+    display: block;
+    height: 250px;
+    background-size: cover;
+}
+
+.carousel-item .banner_03 {
+    background-image: url(../../images/banner3.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    background-position-x: center;
+    background-position-y: 0px;
+    display: block;
+    height: 250px;
+    background-size: cover;
+}
+
+@media (max-width: 768px) {
+    .d-md-block {
+        display: block!important;
+    }
+    .carousel-item h5 {
+        font-size: 2.5rem;
+    }
+    .carousel-item p {
+        font-size: 1.3rem;
+    }
+}
+
+body {
+    font-family: 'Raleway', sans-serif;
+}
+
+.col {transition: .4s;position: relative;}
+
+.height100 {height: 100%;}
+
+.bg-verde_01 {background-color: #9cd74b!important;}
+.bg-verdemusgo {background-color: #045552!important;}
+
+.navbar-brand-2 img {
+    padding-top: 0.3125rem;
+    padding-bottom: 0.3125rem;
+    margin-right: 1rem;
+    width: 115px;
+}
+
+/*.background-logado {
+    background-image: url(../../images/background-logado.jpg);
+    background-repeat: repeat;
+    background-size: 100% auto;
+    background-position-x: left;
+    background-position-y: 40px;
+    background-size: cover;
+    background-position: center center;
+}*/
+
+.bg_login_down {
+    background-image: url(../../images/bg_login_down.svg);
+    background-repeat: repeat;
+    background-size: 100% auto;
+    background-position-x: left;
+    background-position-y: 40px;
+    /* background-size: cover; */
+}
+.bg_login_top {
+    background-image: url(../../images/bg_login_top.svg);
+    background-repeat: repeat;
+    background-size: 100% auto;
+    background-position-x: left;
+    background-position-y: 40px;
+    /* background-size: cover; */
+}
+
+.fontAcesso {
+    color: #052730!important;
+    background: #05273024;
+    padding: 20px 0 20px 0;
+    margin: 30px 0 0 0;
+}
+
+.main, main {
+    height: 100%;
+    display: contents;
+
+}
+
+/* ::: Botões ::: */
+
+  /* Aparência que terá o seletor de arquivo */
+  .label-avatar {
+    background-color: #75ae41;
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+    margin: 10px;
+    padding: 6px 20px;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+  }
+  .label-avatar:hover {
+  background-color: #8cbd39;
+}
+
+.btn {
+    border-radius: 6px!important;
+    font-size: 1.3rem!important;
+}
+
+.btn.btn-primary {
+    color: #fff;
+    border-color: #078f88;
+    background-color: #078f88;
+}
+
+.text-primary {
+    color: #078f88!important;
+}
+
+.btn-check:active+.btn.btn-primary, .btn-check:checked+.btn.btn-primary, .btn.btn-primary.active, .btn.btn-primary.show, .btn.btn-primary:active:not(.btn-active), .btn.btn-primary:focus:not(.btn-active), .btn.btn-primary:hover:not(.btn-active), .show>.btn.btn-primary {
+    color: #fff;
+    border-color: #4bae4f;
+    background-color: #4bae4f;
+}
+
+a {
+    /*color: #078f88;*/
+    color: #078f88;
+    text-decoration: none;
+}
+a:hover {
+    color: #4bae4f;
+}
+
+/* ::: Campos ::: */
+
+/*.form-control {
+    margin: 15px 0px 0px 0;
+}*/
+
+.form-control {
+    font-family: sans-serif;
+}
+
+.form-floating>.form-control, .form-floating>.form-select {
+    height: calc(3.5rem + 5px);
+    padding: 1.2rem;
+}
+
+/* ::::::::::::::::::::::
+::: CARDS - Pagina home
+:::::::::::::::::::::::::*/
+
+.card {
+    /* text-align: center; */
+    transition: .5s;
+    cursor: pointer;
+    padding: 3rem 2rem;
+    box-sizing: border-box;
+    height: 100%;
+    box-shadow: 1px 1px 4px 0px rgb(0 0 0 / 11%);
+    border-radius: 10px;
+}
+a.cardLink {
+    /*text-align: center;*/
+    transition: .5s;
+    cursor: pointer;
+    padding: 3rem 2rem;
+    box-sizing: border-box;
+    height: 100%;
+    box-shadow: 1px 1px 4px 0px rgb(0 0 0 / 11%);
+    border-radius: 0px;
+    border: solid 2px;
+    border-color: transparent;
+    position: relative;
+        color: #fff;
+}
+a.cardLink:hover {
+    border-color: #063841;
+    /* background: inherit; */
+}
+
+.btnLiberar {
+    position: absolute;
+    right: 7px;
+    top: 0px;
+    z-index: 999;
+}
+
+.btnLiberar a {
+    background: #f44336;
+    /* width: 74px; */
+    display: block;
+    color: white;
+    padding: 6px 10px;
+    line-height: 14px;
+    text-align: center;
+    font-size: 12px;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+.btnLiberar a:hover {
+    background: #063841;
+}
+
+.card_2 {
+    text-align: left;
+    transition: .5s;
+    cursor: pointer;
+    padding: 2rem 2rem;
+    border-radius: px;
+    box-sizing: border-box;
+    height: 100%;
+    box-shadow: 1px 3px 6px 0px rgb(0 0 0 / 11%);
+}
+.card_2 .card-header {
+    padding: 1.9rem 1rem;
+    margin-bottom: 0;
+    background-color: transparent;
+    border-bottom: 1px solid #eff2f5;
+}
+
+.card span {}
+.card span.icone {
+    /* width: 300px; */
+    min-height: 150px;
+    margin: auto;
+}
+.card span.icone img {
+    width: 100%;
+}
+/*.card span.icone-1 {
+    background-image: url(../../images/ico_cards-1.svg);
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    background-position-x: center;
+    background-position-y: center;
+}
+.card span.icone-2 {background-image: url(../../images/ico_cards-2.svg);}
+.card span.icone-3 {background-image: url(../../images/ico_cards-3.svg);}
+.card span.icone-4 {background-image: url(../../images/ico_cards-4.svg);}
+.card span.icone-5 {background-image: url(../../images/ico_cards-5.svg);}
+.card span.icone-6 {background-image: url(../../images/ico_cards-6.svg);}
+.card span.icone-7 {background-image: url(../../images/ico_cards-7.svg);}
+.card span.icone-8 {background-image: url(../../images/ico_cards-8.svg);}
+.card span.icone-9 {background-image: url(../../images/ico_cards-9.svg);}*/
+
+.card_Caixa {}
+
+.card_Back {
+    background-image: url(../../images/card_Back.svg);
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    background-position-x: center;
+    background-position-y: center;
+}
+/*.card_Backcolor_link-1 {background-color: #f34235;}*/
+.card_Backcolor_link-C {background-color: #f1416c;}
+.card_Backcolor_link-S {background-color: #e66737;}
+.card_Backcolor_link-P {background-color: #026660;}
+.card_Backcolor_link-T {background-color: #20ba8b;}
+.card_Backcolor_link-L {background-color: #33b8cc;}
+.card_Backcolor_link-N {background-color: #99cc33;}
+.card_Backcolor_link-R {background-color: #e68301;}
+.card_Backcolor_link-M {background-color: #146b8c;}
+.card_Backcolor_link-empresa_1 {background-color: #8c359c;}
+.card_Backcolor_link-empresa_2 {background-color: #59bb42;}
+.card_Backcolor_link-empresa_3 {background-color: #b70e1d;}
+.card_Backcolor_link-empresa_4 {background-color: #4bae4f;}
+.card_Backcolor_link-empresa_6 {background-color: #f9a51f;}
+.card_Backcolor_link-empresa_7 {background-color: #2b9bd4;}
+
+
+.card i {font-size: 5em;}
+
+.overlay .overlay-layer {
+    background-color: rgba(0,0,0,.75);
+    padding: 30px 0 0px 0px;
+}
+.overlay .overlay-layer:hover {padding: 0px 0 0px 0px;}
+
+.card .name_1 {
+    font-size: 30px;
+    font-weight: 200;
+    line-height: 20px;
+}
+.card .name_2 {
+    font-size: 30px;
+    font-weight: 900;
+    line-height: 20px;
+}
+
+.card .card-title {
+    margin: 0 0 15px 0;
+    font-weight: 800;
+}
+
+.card span {
+    color: inherit;
+    font-size: 1.6rem;
+}
+.card p {
+    color: inherit;
+    font-size: 0.9rem;
+    margin: 0 0 0px 0;
+}
+.box_card {
+    display: flex;
+    flex-direction: column;
+    padding: 2rem 0rem 0rem 0rem!important;
+    color: #fff;
+}
+.box_card .box {
+    flex: auto;
+}
+.box_card .box_3 {
+    flex: initial;
+}
+
+/*dos componentes*/
+
+.card>.card-header {
+    display: -webkit-flex;
+    display: flex;
+    -webkit-justify-content: space-between;
+    justify-content: space-between;
+    -webkit-align-items: stretch;
+    align-items: stretch;
+    -webkit-flex-wrap: wrap;
+    flex-wrap: wrap;
+    min-height: 30px;
+    padding: 0px 0px 20px 30px;
+    background-color: transparent;
+}
+/*FIM CARDS*/
+/*TOPO E TÍTULOS DAS PÁGINAS*/
+
+.topoTitulo {max-width: 100%;}
+.topoTitulo .col-auto {margin: 23px 0px 0 0;}
+.topoTitulo h1 {font-size: 30px;font-weight: 200;line-height: 20px;}
+.topoTitulo h1 b {font-weight: 900;}
+
+/* ::: AVISOS ::: */
+.avisoCenter {}
+.avisoCenter h1 {font-size: 2.5rem;font-weight: 800;}
+.avisoCenter h1 span {margin: 0 12px 0 0;}
+.avisoCenter h2 {font-size: 1.2rem;font-weight: 400;line-height: 25px; margin: 20px 0 0 0;}
+
+.alert {
+    position: relative;
+    padding: 3rem;
+    margin-bottom: 1rem;
+    border: 1px solid transparent;
+    border-radius: 0.65rem;
+}
+
+
+/* ====================MENU PEGANDO ====================*/
