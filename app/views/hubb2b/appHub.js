@@ -1,6 +1,7 @@
 var appHub = angular.module("appHub", [
 	"ngRoute",
 	"angularUtils.directives.dirPagination",
+	"ngSanitize"
 ]);
 
 appHub.filter("telefone", function () {

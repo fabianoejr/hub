@@ -13,6 +13,8 @@
 
 	<!-- Switchery css -->
 	<?php echo link_tag('assets_novo/uplon/assets/plugins/switchery/switchery.min.css') ?>
+	<link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
+	<script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
 
 	<!-- Notification css (Toastr) -->
 	<?php echo link_tag('assets_novo/uplon/assets/plugins/toastr/toastr.min.css') ?>
