@@ -10,7 +10,9 @@ class Hub_b2b extends CI_Controller
 		$this->load->model("Hub_b2b_model", "mHub");
 		$this->load->model("Empresas_model", "mEmpresas");
 		$this->load->helper('tag_helper');
+		$this->load->helper('satc_helper');
 		$this->load->library('session');
+		$this->load->library('satc');
 
 		if (!$this->session->userdata('empresa')) {
 			redirect('login');
@@ -59,5 +61,34 @@ class Hub_b2b extends CI_Controller
 	public function getRecomendacoes()
 	{
 		echo json_encode($this->mHub->getRecomendacoes(['id_empresa' => $this->session->userdata('empresa')->id]));
+	}
+
+	public function postSolicitaOrcamento()
+	{
+		$inputs = $this->satc->getInputAngular();
+
+		$dados_orcamento = [
+			'id_empresa' => $inputs['dados']['id_empresa'],
+			'id_segmento' => $inputs['dados']['id_segmento'],
+			'descricao' => $inputs['dados']['descricao'],
+			'detalhes' => $inputs['dados']['detalhes'],
+			'nome' => $inputs['dados']['nome'],
+			'email' => $inputs['dados']['email'],
+			'telefone' => $inputs['dados']['telefone'],
+		];
+
+		$this->mHub->insertOrcamento($dados_orcamento);
+
+		$dados_proposta = [
+			'id_empresa' => $inputs['dados']['id_empresa'],
+			'id_segmento' => $inputs['dados']['id_segmento'],
+			'descricao' => $inputs['dados']['descricao'],
+			'status' => 'P',
+			'orcamento' => 'S'
+		];
+
+		$this->mHub->insertProposta($dados_proposta);
+
+		echo json_encode(['success' => true, 'message' => 'Orçamento criado com sucesso!']);
 	}
 }

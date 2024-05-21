@@ -23,6 +23,16 @@ class Hub_b2b_model extends CI_Model
 	{
 		return $this->db->get_where('recomendacoes', $where)->result_array();
 	}
+
+	public function insertOrcamento($data)
+	{
+		return $this->db->insert('orcamentos', $data);
+	}
+
+	public function insertProposta($data)
+	{
+		return $this->db->insert('propostas', $data);
+	}
 }
 
 /* End of file Hub_b2b_model.php */

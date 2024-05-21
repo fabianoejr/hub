@@ -44,12 +44,9 @@ appHub.factory("appHubFact", function ($http) {
 			);
 			return promise;
 		},
-		buscarListaClientes: function (busca = {}) {
+		postSolicitaOrcamento: function (dados = {}) {
 			var promise = $http
-				.post(
-					"/portais/colaborador_novo/index.php/Propostas_Informativos/buscarListaClientes",
-					{ busca: busca }
-				)
+				.post("/hub/Hub_b2b/postSolicitaOrcamento", { dados: dados })
 				.then(
 					function (response) {
 						return response.data;
